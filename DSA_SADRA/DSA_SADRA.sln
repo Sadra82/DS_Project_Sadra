@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DSA_SADRA", "DSA_SADRA\DSA_SADRA.pyproj", "{AEEE80BF-FB63-4F88-9FD1-54B01C2469F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEEE80BF-FB63-4F88-9FD1-54B01C2469F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEEE80BF-FB63-4F88-9FD1-54B01C2469F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE6A054C-81A2-4089-AA43-1C56DDFC5296}
+	EndGlobalSection
+EndGlobal
